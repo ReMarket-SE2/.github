@@ -8,8 +8,7 @@ We're building a simple, efficient marketplace application designed with modular
 
 Our codebase is organized into four main repositories:
 
-- **[frontend](https://github.com/ReMarket-SE2/frontend)** - User interface and client-side logic
-- **[backend](https://github.com/ReMarket-SE2/backend)** - API services and business logic
+- **[webapp](https://github.com/ReMarket-SE2/webapp)** - Full stack web application
 - **[devops](https://github.com/ReMarket-SE2/devops)** - Infrastructure as code and deployment pipelines
 - **[documentation](https://github.com/ReMarket-SE2/documentation)** - Comprehensive guides and API references
 
