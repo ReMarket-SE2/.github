@@ -18,7 +18,7 @@ Check out our [documentation](https://github.com/ReMarket-SE2/documentation) rep
 
 ## 🤝 Contributing
 
-We welcome contributions from the community! Please read our contribution guidelines in the documentation repository before submitting pull requests.
+Currently we do not support contributions to the project, outside from organization members. For now you can only raise issues for project specification.
 
 ## 📞 Contact
 
