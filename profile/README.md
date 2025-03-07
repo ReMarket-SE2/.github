@@ -27,3 +27,13 @@ Have questions? Join our community discussions via GitHub Discussions or reach o
 ---
 
 © 2025 ReMarket Team
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+## Memes
+
+![IMG_0415](https://github.com/user-attachments/assets/a3f926b5-d17f-4c2c-a0a9-d7886f0d265d)
