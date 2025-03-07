@@ -34,6 +34,12 @@ Have questions? Join our community discussions via GitHub Discussions or reach o
 <br/>
 <br/>
 
-## Memes
+## Memes (fine selection)
+
+### Week 1 (getting progressively better code coverage)
 
 ![IMG_0415](https://github.com/user-attachments/assets/a3f926b5-d17f-4c2c-a0a9-d7886f0d265d)
+
+### Week 2
+
+in selection
