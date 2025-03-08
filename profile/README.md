@@ -40,7 +40,7 @@ Have questions? Join our community discussions via GitHub Discussions or reach o
 
 ![IMG_0415](https://github.com/user-attachments/assets/a3f926b5-d17f-4c2c-a0a9-d7886f0d265d)
 
-![Like Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fgetcounter-7se6asc4iq-ew.a.run.app%3Fname%3Dlike-1&style=social&link=https%3A%2F%2Fincrementcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Dlike-1) ![Dislike Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fgetcounter-7se6asc4iq-ew.a.run.app%3Fname%3Ddislike-1&style=social&link=https%3A%2F%2Fincrementcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Ddislike-1)
+![Like Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fgetcounter-7se6asc4iq-ew.a.run.app%3Fname%3Dlike-1&style=social&cacheSeconds=10&link=https%3A%2F%2Fincrementcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Dlike-1) ![Dislike Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fgetcounter-7se6asc4iq-ew.a.run.app%3Fname%3Ddislike-1&style=social&cacheSeconds=10&link=https%3A%2F%2Fincrementcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Ddislike-1)
 
 ### Week 2
 
