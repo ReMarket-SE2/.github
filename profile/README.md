@@ -29,10 +29,6 @@ Have questions? Join our community discussions via GitHub Discussions or reach o
 © 2025 ReMarket Team
 
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ## Memes (fine selection)
 
@@ -54,4 +50,7 @@ Have questions? Join our community discussions via GitHub Discussions or reach o
 
 [Click to like](https://incrementcounter-7se6asc4iq-ew.a.run.app/?name=like-2) 
 [Click to dislike](https://incrementcounter-7se6asc4iq-ew.a.run.app/?name=dislike-2)
+
+### Week 3
+In selection (drop: 20 March 2025)
 
