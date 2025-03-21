@@ -34,7 +34,7 @@ Have questions? Join our community discussions via GitHub Discussions or reach o
 
 ### Week 1 (getting progressively better code coverage)
 
-![IMG_0415](https://github.com/user-attachments/assets/a3f926b5-d17f-4c2c-a0a9-d7886f0d265d)
+<img src="https://github.com/user-attachments/assets/a3f926b5-d17f-4c2c-a0a9-d7886f0d265d" width="400">
 
 ![Like Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fgetcounter-7se6asc4iq-ew.a.run.app%3Fname%3Dlike-1&style=for-the-badge&cacheSeconds=10&link=https%3A%2F%2Fincrementcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Dlike-1) &nbsp;&nbsp; ![Dislike Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fgetcounter-7se6asc4iq-ew.a.run.app%3Fname%3Ddislike-1&style=for-the-badge&cacheSeconds=10&link=https%3A%2F%2Fincrementcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Ddislike-1)
 
@@ -43,7 +43,7 @@ Have questions? Join our community discussions via GitHub Discussions or reach o
 
 ### Week 2 (fix: fix the fixes)
 
-![meme](https://github.com/user-attachments/assets/34c20987-38c6-4583-9699-7d379718dd8a) 
+<img src="https://github.com/user-attachments/assets/34c20987-38c6-4583-9699-7d379718dd8a" width="400">
 
 ![Like Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fgetcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Dlike-2&style=for-the-badge&cacheSeconds=10&link=https%3A%2F%2Fincrementcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Dlike-2) &nbsp;&nbsp; ![Dislike Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fgetcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Ddislike-2&style=for-the-badge&cacheSeconds=10&link=https%3A%2F%2Fincrementcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Ddislike-2)
 
@@ -53,7 +53,7 @@ Have questions? Join our community discussions via GitHub Discussions or reach o
 
 ### Week 3 (Broke the build, fixed the vibes. No issues, no blockers.)
 
-![image](https://github.com/user-attachments/assets/44627928-d52e-48a7-8ce4-7845b300bc6b)
+<img src="https://github.com/user-attachments/assets/44627928-d52e-48a7-8ce4-7845b300bc6b" width="400">
 
 ![Like Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fgetcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Dlike-3&style=for-the-badge&cacheSeconds=10&link=https%3A%2F%2Fincrementcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Dlike-3) &nbsp;&nbsp; ![Dislike Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fgetcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Ddislike-3&style=for-the-badge&cacheSeconds=10&link=https%3A%2F%2Fincrementcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Ddislike-3)
 
