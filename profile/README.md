@@ -61,7 +61,17 @@ Have questions? Join our community discussions via GitHub Discussions or reach o
 [Click to like](https://incrementcounter-7se6asc4iq-ew.a.run.app/?name=like-3) 
 [Click to dislike](https://incrementcounter-7se6asc4iq-ew.a.run.app/?name=dislike-3)
 
-### Week 4
+### Week 4 (review is at 9am online)
 
-In selection (drop: 27 March 2025)
+<img src="https://github.com/user-attachments/assets/510917ec-56e1-41b5-a301-3de409983544" width="400">
+
+![Like Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fgetcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Dlike-4&style=for-the-badge&cacheSeconds=10&link=https%3A%2F%2Fincrementcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Dlike-4) &nbsp;&nbsp; ![Dislike Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fgetcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Ddislike-4&style=for-the-badge&cacheSeconds=10&link=https%3A%2F%2Fincrementcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Ddislike-4)
+
+
+[Click to like](https://incrementcounter-7se6asc4iq-ew.a.run.app/?name=like-4) 
+[Click to dislike](https://incrementcounter-7se6asc4iq-ew.a.run.app/?name=dislike-4)
+
+### Week 5
+
+In selection (drop: April 2025)
 
