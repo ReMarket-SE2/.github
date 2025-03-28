@@ -63,7 +63,7 @@ Have questions? Join our community discussions via GitHub Discussions or reach o
 
 ### Week 4 (review is at 9am online)
 
-<img src="https://github.com/user-attachments/assets/510917ec-56e1-41b5-a301-3de409983544" width="400">
+<img src="https://github.com/user-attachments/assets/c9451141-b9c3-46ee-a85a-b0c4a55ab2af" width="400">
 
 ![Like Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fgetcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Dlike-4&style=for-the-badge&cacheSeconds=10&link=https%3A%2F%2Fincrementcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Dlike-4) &nbsp;&nbsp; ![Dislike Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fgetcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Ddislike-4&style=for-the-badge&cacheSeconds=10&link=https%3A%2F%2Fincrementcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Ddislike-4)
 
