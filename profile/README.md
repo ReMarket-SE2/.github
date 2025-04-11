@@ -80,7 +80,7 @@ Have questions? Join our community discussions via GitHub Discussions or reach o
 [Click to like](https://incrementcounter-7se6asc4iq-ew.a.run.app/?name=like-5) 
 [Click to dislike](https://incrementcounter-7se6asc4iq-ew.a.run.app/?name=dislike-5)
 
-### Week 6 (300 dependencies later)
+### Week 6 (Minimal Vibe Pass)
 <img src="https://github.com/user-attachments/assets/54b59d29-f871-4952-8699-c9d439fbe0fb" width="400">
 
 
