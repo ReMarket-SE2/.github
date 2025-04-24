@@ -90,6 +90,15 @@ Have questions? Join our community discussions via GitHub Discussions or reach o
 [Click to like](https://incrementcounter-7se6asc4iq-ew.a.run.app/?name=like-6) 
 [Click to dislike](https://incrementcounter-7se6asc4iq-ew.a.run.app/?name=dislike-6)
 
-### Week 7
-In selection (drop: April 2025)
+### Week 7 (just a dog)
+<img src="https://github.com/user-attachments/assets/8825cbbb-2da8-4e55-9fe7-47c9323ba44a" width="400">
 
+
+![Like Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fgetcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Dlike-7&style=for-the-badge&cacheSeconds=10&link=https%3A%2F%2Fincrementcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Dlike-7) &nbsp;&nbsp; ![Dislike Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fgetcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Ddislike-7&style=for-the-badge&cacheSeconds=10&link=https%3A%2F%2Fincrementcounter-7se6asc4iq-ew.a.run.app%2F%3Fname%3Ddislike-7)
+
+
+[Click to like](https://incrementcounter-7se6asc4iq-ew.a.run.app/?name=like-7) 
+[Click to dislike](https://incrementcounter-7se6asc4iq-ew.a.run.app/?name=dislike-7)
+
+### Week 8
+In selection (drop: May 2025)
